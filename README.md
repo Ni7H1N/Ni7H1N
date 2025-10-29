@@ -63,6 +63,13 @@ My goal is to bridge **DevOps + Security** by embedding DevSecOps principles acr
 
 ---
 
+### 🔹 Password Strength — Rust + WebAssembly + React  
+Built a **secure password analysis and generator tool** powered by a **Rust core compiled to WebAssembly (WASM)** with a **React + Tailwind frontend**.  
+Highlights: Rust-based entropy scoring, zxcvbn heuristics, and real-time feedback — **fully local and privacy-first**.  
+
+📦 [View Repository →](https://github.com/Ni7H1N/password-strength-wasm)
+
+---
 ### 🔹 VAPT Practitioner — CyberThreya
 **Role:** Security Research Intern (Offensive Security & Automation)  
 - Conducted network and web app VAPT using **Nmap, Burp Suite, SQLmap, Metasploit, Wireshark**.  
@@ -78,7 +85,7 @@ My goal is to bridge **DevOps + Security** by embedding DevSecOps principles acr
 - 🧩 **VAPT Certified – CyberThreya** (*Offensive Security & Cloud Security*)  
 - 🎯 **ISC2 Certified in Cybersecurity (CC)**  
 - 🛡️ **arcX Threat Intel | Cisco | zSecurity Certified**  
-- 🟦 **CASA (Cybersecurity Analyst Skill Assessment) Certified**  
+- 🟦 **CASA (Certified API Security Analyst) Certified**  
 - 🥇 **Top 8** — Hidden Investigations CTF  
 - 🥈 **Rank 56** — Great AppSec Hackathon 2024 (CCoE Telangana)  
 - 🧩 **600+ CTFs Completed** — TryHackMe, HTB, PicoCTF  
@@ -113,9 +120,10 @@ My goal is to bridge **DevOps + Security** by embedding DevSecOps principles acr
 ---
 
 ## 🧩 TryHackMe Profile
+
 <p align="center">
-  <a href="https://tryhackme.com/p/Ni7H1N">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Ni7H1N.png" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/p/Ni7H1N" target="_blank">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2381203" alt="TryHackMe Badge" style="border:none; width:400px; height:120px;" />
   </a>
 </p>
 
