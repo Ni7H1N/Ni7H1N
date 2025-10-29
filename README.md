@@ -120,10 +120,9 @@ Highlights: Rust-based entropy scoring, zxcvbn heuristics, and real-time feedbac
 ---
 
 ## 🧩 TryHackMe Profile
-
 <p align="center">
   <a href="https://tryhackme.com/p/Ni7H1N" target="_blank">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2381203" alt="TryHackMe Badge" style="border:none; width:400px; height:120px;" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Ni7H1N.png?cachebust=1" alt="TryHackMe Badge" />
   </a>
 </p>
 
