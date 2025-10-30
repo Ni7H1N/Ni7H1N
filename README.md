@@ -132,7 +132,7 @@ Highlights: Rust-based entropy scoring, zxcvbn heuristics, and real-time feedbac
 
 📧 **nithinkaripalli@gmail.com**  
 🌐 [LinkedIn →](https://www.linkedin.com/in/nithin-karipalli)  
-💻 [GitHub →](https://github.com/Nithin096)  
+💻 [GitHub →](https://github.com/Ni7H1N)  
 🎯 [TryHackMe →](https://tryhackme.com/p/Ni7H1N)
 
 ---
