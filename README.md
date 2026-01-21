@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Cloud & DevOps Engineer | DevSecOps Practitioner | Offensive Security Enthusiast</h3>
 
 <p align="center">
-  📍 Mumbai, India • 💼 Open to Full-Time Roles • 🕐 Available Immediately
+  📍India • 💼 Open to Full-Time Roles • 🕐 Available Immediately
 </p>
 
 ---
